@@ -1,4 +1,6 @@
 ---
 default
 ---
-###sunnine's website
+sunnine's website
+
+[my blog](http://sunnine99.github.io/blog/)
